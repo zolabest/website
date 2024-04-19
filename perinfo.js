@@ -4,7 +4,7 @@ const personInfo = {
   age: "unknown", 
   hometown: "Mekhoni",
   favoriteColor: "blue",
-  isStudent: true
+  isStudent: false
 };
 
 // Output the full name using a template literal for improved readability
